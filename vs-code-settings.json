@@ -1,0 +1,14 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula Soft",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "git.suggestSmartCommit": false,
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 1,
+    "powermode.enabled": true,
+    "powermode.presets": "flames",
+    "powermode.combo.counterEnabled": "show",
+    "powermode.shake.enabled": false
+}
