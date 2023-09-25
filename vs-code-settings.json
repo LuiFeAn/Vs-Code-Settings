@@ -9,6 +9,7 @@
     "powermode.enabled": true,
     "powermode.presets": "flames",
     "powermode.combo.counterEnabled": "show",
+    "material-icon-theme.activeIconPack": "nest",
     "powermode.shake.enabled": false,
     "background.fullscreen": {
         "images": ["https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d83aabca-6947-468e-83c7-e585bbebcf99/dfnrmpx-c90a041c-0d98-4e66-a716-a22695434237.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q4M2FhYmNhLTY5NDctNDY4ZS04M2M3LWU1ODViYmViY2Y5OVwvZGZucm1weC1jOTBhMDQxYy0wZDk4LTRlNjYtYTcxNi1hMjI2OTU0MzQyMzcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.i5IbLrvDI8YNj73Ou-xpuchCniJxBcsztPBiBr2Xru0"],
